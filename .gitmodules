@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/qihoo360/TinyR1-32B-Preview-datasets.git
+[submodule "360-LLaMA-Factory"]
+	path = 360-LLaMA-Factory
+	url = https://github.com/Qihoo360/360-LLaMA-Factory.git

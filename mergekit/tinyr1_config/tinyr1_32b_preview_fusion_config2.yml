@@ -1,0 +1,7 @@
+models:
+- model: ./output/tinyr1_32b_preview_fusion_Mid_Model
+- model: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+merge_method: arcee_fusion
+base_model: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+dtype: bfloat16
+out_dtype: bfloat16
